@@ -9,6 +9,7 @@ header {
 body {
     background-color: bisque;
     font-size: 25px;
+    font-style: italic;
 }
 main {
     margin-top: 80px;
