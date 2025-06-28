@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: bisque;
+    text-align: center;
+}
+body {
+    background-color: bisque;
+    font-size: 25px;
+}
+main {
+    margin-top: 80px;
+}
+
+.title {
+    color: orange;
+}
